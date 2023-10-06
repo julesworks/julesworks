@@ -10,7 +10,7 @@ Esse perfil foi criado para servir como portifólio e pra guardar alguns estudos
 
 ## Hard Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,py,mysql,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,py,postgres,sqlite)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julesworks)](https://github.com/julesworks)
 
