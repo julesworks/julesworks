@@ -1,6 +1,6 @@
 # Oi!
 
-Meu nome é Julianna, mais conhecida como Jules! Estudo programação com foco em Back-End, mas já faço uns trabalhos por fora pra alguns conhecidos. No momento, meu projeto atual está sendo construir um site do zero em Python que se constui por seu sistema de login, registro e painel para cada usuário. Amo, vivo e respiro tecnologia. :)
+Meu nome é Julianna, mais conhecida como Jules! Estudo programação com foco em Back-End, mas já faço uns trabalhos por fora pra alguns conhecidos. No momento, meu projeto atual está sendo construir uma API em Python que se constui por seu sistema de login, registro e painel para cada usuário. Amo, vivo e respiro tecnologia. :)
 
 Esse perfil foi criado para servir como portifólio e pra guardar alguns estudos e trabalhos particulares.
 
